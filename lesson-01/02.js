@@ -1,4 +1,4 @@
 // code
-let randomNumber = Math.floor(Math.random() * 100)
-randomNumber % 2 === 0 ? console.log(randomNumber, ':Это четное число') : console.log(randomNumber, 'Это нечетное число');
+let number1 = Math.floor(Math.random() * 100)
+number1 % 2 === 0 ? console.log(number1, 'Это четное число') : console.log(number1, 'Это нечетное число');
 
